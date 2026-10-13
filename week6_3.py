@@ -1,4 +1,3 @@
-
 import numpy as np
 
 # 원래 행렬

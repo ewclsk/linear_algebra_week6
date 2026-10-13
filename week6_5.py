@@ -1,4 +1,3 @@
-
 # 2×2 행렬의 행렬식 계산 함수
 def determinant_2x2(matrix):
     return (

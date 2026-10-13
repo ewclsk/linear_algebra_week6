@@ -1,4 +1,3 @@
-
 import numpy as np
 
 # 3차원 벡터
